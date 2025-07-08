@@ -3,3 +3,4 @@
 # công nghệ sử dụng
 
 - html, css, javascript
+## hướng dẫn cài đặt
